@@ -1,0 +1,6 @@
+{
+    "extensionDisplayName": "LocalTerminalInRemote",
+    "extensionId": "Local-Terminal",
+    "extensionDescription": "POC for pop a local shell when remote to server",
+    "command": "echo Hacked"
+} 
